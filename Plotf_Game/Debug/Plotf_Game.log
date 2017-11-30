@@ -1,0 +1,4 @@
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(392,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (Plotf_Game.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Level.cpp
+  Plotf_Game.vcxproj -> C:\Users\йцукен\Documents\Visual Studio 2015\Projects\Plotf_Game\Debug\Plotf_Game_LevelEditor.exe
+  Plotf_Game.vcxproj -> C:\Users\йцукен\Documents\Visual Studio 2015\Projects\Plotf_Game\Debug\Plotf_Game_LevelEditor.pdb (Full PDB)
